@@ -11,7 +11,7 @@ from collections import defaultdict
 import operator
 import json
 
-token = "22563153531223c7913aed1cb0447354be0fc61b" 
+token = "" 
 
 # sort the dict according to their values of their keys
 def get_top_count(data, n=1, order=False):
